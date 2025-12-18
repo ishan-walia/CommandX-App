@@ -46,4 +46,9 @@ CommandX is built to support **Linux, Git, GitHub, and Kali Linux commands**, wi
 
 ---
 
+## Disclaimer
 
+This app is made for **educational purposes only**.  
+It does not promote any illegal activity.
+
+---
