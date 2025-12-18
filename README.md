@@ -54,4 +54,5 @@ It does not promote any illegal activity.
 ---
 ## Developer
 
-Name: **Walia Creations**  
+Name: **Ishan walia**  
+Company: **Walia Creations**
