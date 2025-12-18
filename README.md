@@ -52,3 +52,6 @@ This app is made for **educational purposes only**.
 It does not promote any illegal activity.
 
 ---
+## Developer
+
+Name: **Walia Creations**  
