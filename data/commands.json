@@ -376,43 +376,43 @@
     "description": "Text editor"
   },
   {
-    "commad": "vim",
+    "command": "vim",
     "description": "Advanced editor"
   },
   {
-    "commad": "vi",
+    "command": "vi",
     "description": "Classic editor"
   },
   {
-    "commad": "apt",
+    "command": "apt",
     "description": "Package manager"
   },
   {
-    "commad": "apt-get",
+    "command": "apt-get",
     "description": "Install packages"
   },
   {
-    "commad": "apt update",
+    "command": "apt update",
     "description": "Update package list"
   },
   {
-    "commad": "apt upgrade",
+    "command": "apt upgrade",
     "description": "Upgrade packages"
   },
   {
-    "commad": "tar",
+    "command": "tar",
     "description": "Archive files"
   },
   {
-    "commad": "zip",
+    "command": "zip",
     "description": "Zip files"
   },
   {
-    "commad": "gzip",
+    "command": "gzip",
     "description": "Compress file"
   },
   {
-    "commad": "gunzip",
+    "command": "gunzip",
     "description": "Decompress file"
   },
   {
