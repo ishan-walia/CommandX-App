@@ -154,5 +154,33 @@
   {
     "command": "4 (4)",
     "description": "Read only"
+  },
+  {
+    "command": "Arithmetic Operators",
+    "description": "+ , - , * , / , %"
+  },
+  {
+    "command": "Relational Operators",
+    "description": "-eq  , -ne  , -gt  , -lt , -ge , -le  "
+  },
+  {
+    "command": "String Operators",
+    "description": " = , != , < , > "
+  },
+  {
+    "command": "Logical Operators",
+    "description": "&& , || , !"
+  },
+  {
+    "command": "Assignment Operators",
+    "description": "= , +="
+  },
+  {
+    "command": "Bitwise Operators",
+    "description": "&, ! , ^ , << ,>> ,~"
+  },
+  {
+    "command": "File Test Operators",
+    "description": "-f , -d ,-r , -w, -x"
   }
 ]
