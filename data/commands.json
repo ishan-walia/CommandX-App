@@ -1,7 +1,7 @@
 [
   {
     "command": "ls",
-    "description": "List files and directories"
+    "description": "List files and directories ishan"
   },
   {
     "command": "cd",
