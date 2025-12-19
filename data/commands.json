@@ -1,1 +1,11 @@
+[
+  {
+    "command": "ls",
+    "description": "List files and directories"
+  },
+  {
+    "command": "cd",
+    "description": "Change directory"
+  }
+]
 
