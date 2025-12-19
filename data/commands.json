@@ -93,7 +93,7 @@
   },
   {
     "command": "p",
-    "description": "Nmaed pipe (FIFO)"
+    "description": "Named pipe (FIFO)"
   },
   {
     "command": "s",
