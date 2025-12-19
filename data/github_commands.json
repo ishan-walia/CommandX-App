@@ -1,0 +1,122 @@
+[
+  {
+    "command": "git init",
+    "description": "Initialize a new Git repository"
+  },
+  {
+    "command": "git clone <repo-url>",
+    "description": "Clone a repository from GitHub"
+  },
+  {
+    "command": "git status",
+    "description": "Show the working tree status"
+  },
+  {
+    "command": "git add .",
+    "description": "Add all files to staging area"
+  },
+  {
+    "command": "git add <file>",
+    "description": "Add a specific file to staging area"
+  },
+  {
+    "command": "git commit -m \"message\"",
+    "description": "Commit changes with a message"
+  },
+  {
+    "command": "git branch",
+    "description": "List all branches"
+  },
+  {
+    "command": "git branch <name>",
+    "description": "Create a new branch"
+  },
+  {
+    "command": "git checkout <branch>",
+    "description": "Switch to another branch"
+  },
+  {
+    "command": "git checkout -b <branch>",
+    "description": "Create and switch to a new branch"
+  },
+  {
+    "command": "git merge <branch>",
+    "description": "Merge a branch into current branch"
+  },
+  {
+    "command": "git pull",
+    "description": "Fetch and merge changes from remote repository"
+  },
+  {
+    "command": "git push",
+    "description": "Push local commits to remote repository"
+  },
+  {
+    "command": "git push origin main",
+    "description": "Push code to main branch on GitHub"
+  },
+  {
+    "command": "git remote -v",
+    "description": "Show remote repository URLs"
+  },
+  {
+    "command": "git remote add origin <url>",
+    "description": "Add a remote GitHub repository"
+  },
+  {
+    "command": "git log",
+    "description": "Show commit history"
+  },
+  {
+    "command": "git diff",
+    "description": "Show file differences"
+  },
+  {
+    "command": "git stash",
+    "description": "Save changes temporarily"
+  },
+  {
+    "command": "git stash pop",
+    "description": "Restore stashed changes"
+  },
+  {
+    "command": "git reset --hard",
+    "description": "Reset all changes (dangerous)"
+  },
+  {
+    "command": "git rm <file>",
+    "description": "Remove a file from repository"
+  },
+  {
+    "command": "git fetch",
+    "description": "Download objects from remote repository"
+  },
+  {
+    "command": "git tag",
+    "description": "List all tags"
+  },
+  {
+    "command": "git tag <version>",
+    "description": "Create a new tag"
+  },
+  {
+    "command": "fork repository",
+    "description": "Create a copy of a repository on your GitHub account"
+  },
+  {
+    "command": "pull request",
+    "description": "Request to merge your code into another repository"
+  },
+  {
+    "command": "issues",
+    "description": "Track bugs and feature requests on GitHub"
+  },
+  {
+    "command": "README.md",
+    "description": "Main documentation file of a GitHub repository"
+  },
+  {
+    "command": ".gitignore",
+    "description": "Specify files and folders to ignore in Git"
+  }
+]
