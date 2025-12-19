@@ -370,5 +370,227 @@
   {
     "command": "msgctl()",
     "description": "Performs control operations on a message queue, such as deleting or modifying it"
+  },
+  {
+    "commad": "nano",
+    "description": "Text editor"
+  },
+  {
+    "commad": "vim",
+    "description": "Advanced editor"
+  },
+  {
+    "commad": "vi",
+    "description": "Classic editor"
+  },
+  {
+    "commad": "apt",
+    "description": "Package manager"
+  },
+  {
+    "commad": "apt-get",
+    "description": "Install packages"
+  },
+  {
+    "commad": "apt update",
+    "description": "Update package list"
+  },
+  {
+    "commad": "apt upgrade",
+    "description": "Upgrade packages"
+  },
+  {
+    "commad": "tar",
+    "description": "Archive files"
+  },
+  {
+    "commad": "zip",
+    "description": "Zip files"
+  },
+  {
+    "commad": "gzip",
+    "description": "Compress file"
+  },
+  {
+    "commad": "gunzip",
+    "description": "Decompress file"
+  },
+  {
+    "command": "less",
+    "description": "View file content page by page"
+  },
+  {
+    "command": "more",
+    "description": "View file content one screen at a time"
+  },
+  {
+    "command": "wc",
+    "description": "Count lines, words and characters"
+  },
+  {
+    "command": "nl",
+    "description": "Number lines of a file"
+  },
+  {
+    "command": "find",
+    "description": "Search files and directories"
+  },
+  {
+    "command": "locate",
+    "description": "Find files quickly using database"
+  },
+  {
+    "command": "awk",
+    "description": "Pattern scanning and processing language"
+  },
+  {
+    "command": "sed",
+    "description": "Stream editor for text processing"
+  },
+  {
+    "command": "cut",
+    "description": "Extract sections from each line"
+  },
+  {
+    "command": "sort",
+    "description": "Sort lines of text"
+  },
+  {
+    "command": "uniq",
+    "description": "Filter repeated lines"
+  },
+  {
+    "command": "tr",
+    "description": "Translate or delete characters"
+  },
+  {
+    "command": "uname",
+    "description": "Display system information"
+  },
+  {
+    "command": "whoami",
+    "description": "Show current user name"
+  },
+  {
+    "command": "id",
+    "description": "Display user and group IDs"
+  },
+  {
+    "command": "uptime",
+    "description": "Show how long system is running"
+  },
+  {
+    "command": "df",
+    "description": "Display disk space usage"
+  },
+  {
+    "command": "du",
+    "description": "Show directory size"
+  },
+  {
+    "command": "free",
+    "description": "Display memory usage"
+  },
+  {
+    "command": "lsblk",
+    "description": "List block devices"
+  },
+  {
+    "command": "mount",
+    "description": "Mount a filesystem"
+  },
+  {
+    "command": "umount",
+    "description": "Unmount a filesystem"
+  },
+  {
+    "command": "ps",
+    "description": "Show running processes"
+  },
+  {
+    "command": "top",
+    "description": "Display real-time process usage"
+  },
+  {
+    "command": "htop",
+    "description": "Advanced interactive process viewer"
+  },
+  {
+    "command": "killall",
+    "description": "Kill processes by name"
+  },
+  {
+    "command": "bg",
+    "description": "Resume job in background"
+  },
+  {
+    "command": "fg",
+    "description": "Resume job in foreground"
+  },
+  {
+    "command": "jobs",
+    "description": "Show background jobs"
+  },
+  {
+    "command": "ip",
+    "description": "Show and manage network interfaces"
+  },
+  {
+    "command": "ifconfig",
+    "description": "Configure network interfaces"
+  },
+  {
+    "command": "ping",
+    "description": "Check network connectivity"
+  },
+  {
+    "command": "netstat",
+    "description": "Network statistics"
+  },
+  {
+    "command": "ss",
+    "description": "Socket statistics"
+  },
+  {
+    "command": "curl",
+    "description": "Transfer data from URLs"
+  },
+  {
+    "command": "wget",
+    "description": "Download files from internet"
+  },
+  {
+    "command": "shutdown",
+    "description": "Shut down the system"
+  },
+  {
+    "command": "reboot",
+    "description": "Restart the system"
+  },
+  {
+    "command": "systemctl",
+    "description": "Control system services"
+  },
+  {
+    "command": "service",
+    "description": "Manage services"
+  },
+  {
+    "command": "clear",
+    "description": "Clear terminal screen"
+  },
+  {
+    "command": "history",
+    "description": "Show command history"
+  },
+  {
+    "command": "alias",
+    "description": "Create command shortcut"
+  },
+  {
+    "command": "exit",
+    "description": "Exit terminal"
   }
 ]
+
+
