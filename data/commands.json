@@ -1,10 +1,66 @@
 [
   {
     "command": "ls",
-    "description": "List files and directories ishan"
+    "description": "List directory contents"
   },
   {
     "command": "cd",
-    "description": "Change directory"
+    "description": "Change the current directory"
+  },
+  {
+    "command": "pwd",
+    "description": "Print the current working directory"
+  },
+  {
+    "command": "mkdir",
+    "description": "Make directories"
+  },
+  {
+    "command": "rmdir",
+    "description": "Remove directories"
+  },
+  {
+    "command": "cp",
+    "description": "Duplicate and transfer files and directories"
+  },
+  {
+    "command": "mv",
+    "description": "Move or rename files and directories"
+  },
+  {
+    "command": "rm",
+    "description": "Remove files or directories"
+  },
+  {
+    "command": "touch",
+    "description": "Create an empty file or change file time stamps"
+  },
+  {
+    "command": "cat",
+    "description": "Display or concatenate files"
+  },
+  {
+    "command": "head",
+    "description": "Display the beginning of a file"
+  },
+  {
+    "command": "tail",
+    "description": "Display the end of a file"
+  },
+  {
+    "command": "grep",
+    "description": "Search text in files"
+  },
+  {
+    "command": "chmod",
+    "description": "Change file permissions"
+  },
+  {
+    "command": "chown",
+    "description": "Change file ownership"
+  },
+  {
+    "command": "ln",
+    "description": "Create links between files"
   }
 ]
