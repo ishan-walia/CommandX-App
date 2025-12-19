@@ -372,7 +372,7 @@
     "description": "Performs control operations on a message queue, such as deleting or modifying it"
   },
   {
-    "commad": "nano",
+    "command": "nano",
     "description": "Text editor"
   },
   {
