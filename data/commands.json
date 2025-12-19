@@ -182,5 +182,193 @@
   {
     "command": "File Test Operators",
     "description": "-f , -d ,-r , -w, -x"
+  },
+  {
+    "command": "open",
+    "description": "Used to open a file and obtain a file descriptor.\n Allows specifying flags for read,write,create,and permissions"
+  },
+  {
+    "command": "close",
+    "description": "Closes a file descriptor, releasing resources as-sociated with the file"
+  },
+  {
+    "command": "read",
+    "description": "Reads data from an open file into a buffer in memory"
+  },
+  {
+    "command": "write",
+    "description": "Writes data from a buffer in memory to an open file"
+  },
+  {
+    "command": "lseek",
+    "description": "Moves the file pointer to a specified position in the file"
+  },
+  {
+    "command": "unlink",
+    "description": "Deletes a file by name"
+  },
+  {
+    "command": "rename",
+    "description": "Renames a file or directory"
+  },
+  {
+    "command": "stat",
+    "description": "Retrieves file status information like permissions,size,and timestamps"
+  },
+  {
+    "command": "link/symlink",
+    "description": "Create hard or symbolic links to files"
+  },
+  {
+    "command": "opendir",
+    "description": "Opens a directory stream corresponding to the given directory name"
+  },
+  {
+    "command": "readdir",
+    "description": "Reads the next directory entry from the directory stream"
+  },
+  {
+    "command": "closedir",
+    "description": "Closes the directory stream"
+  },
+  {
+    "command": "chdir",
+    "description": "Changes the current working directory"
+  },
+  {
+    "command": "getcwd",
+    "description": "Gets the pathname of the current working directory"
+  },
+  {
+    "command": "fork()",
+    "description": "Create a new process by duplicating the calling process"
+  },
+  {
+    "command": "execv()",
+    "description": "Replaces the current processs image with a new program specified by the given file path and arguments"
+  },
+  {
+    "command": "wait()",
+    "description": "Causes the parent process to wait until one of its child processes terminates"
+  },
+  {
+    "command": "exit()",
+    "description": "Terminates the calling process and returns an exit status to the operating system"
+  },
+  {
+    "command": "getpid()",
+    "description": "Retrieves the process ID (PID) of the calling process"
+  },
+  {
+    "command": "getppid()",
+    "description": "Retrieves the parent process ID (PPID) of the calling process"
+  },
+  {
+    "command": "kill()",
+    "description": "Sends a signal to a specified process or group of processes"
+  },
+  {
+    "command": "nice()",
+    "description": "Modifies the priority of a process"
+  },
+  {
+    "command": "sleep()",
+    "description": "Causes the calling process to sleep for a specified number of seconds"
+  },
+  {
+    "command": "pthread_create",
+    "description": " Create a new thread"
+  },
+  {
+    "command": "pthread_join",
+    "description": "Wait for termination of a specific thread"
+  },
+  {
+    "command": "pthread_exit",
+    "description": "Terminate calling thread"
+  },
+  {
+    "command": "pthread_cancel",
+    "description": "Request cancellation of a thread"
+  },
+  {
+    "command": "sem_init",
+    "description": "Initialize a semaphore"
+  },
+  {
+    "command": "sem_destroy",
+    "description": "Destroy a semaphore"
+  },
+  {
+    "command": "sem_post",
+    "description": "Increment (signal) a semaphore"
+  },
+  {
+    "command": "sem_wait",
+    "description": "Decrement (wait/block) a semaphore"
+  },
+  {
+    "command": "pthread_mutex_init",
+    "description": "Initialize a mutex"
+  },
+  {
+    "command": "pthread_mutex_destroy",
+    "description": "Destroy a mutex"
+  },
+  {
+    "command": "pthread_mutex_lock",
+    "description": "Lock a mutex"
+  },
+  {
+    "command": "pthread_mutex_unlock",
+    "description": "Unlock a mutex"
+  },
+  {
+    "command": "pipe()",
+    "description": "Create an anonymous pipe, returning two file descriptors - one for reading and one for writing"
+  },
+  {
+    "command": "mkfifo()",
+    "description": "Create a named pipe (FIFO) in the file system"
+  },
+  {
+    "command": "dup()",
+    "description": "Duplicates a file descriptor, creating a copy of the specified descriptor"
+  },
+  {
+    "command": "close()",
+    "description": "Closes a file descriptor"
+  },
+  {
+    "command": "shmget()",
+    "description": "Allocates a new shared memory segment or accesses an existing one"
+  },
+  {
+    "command": "shmat()",
+    "description": "Attaches the shared memory segment to the address space of the calling process"
+  },
+  {
+    "command": "shmdt()",
+    "description": "Detaches the shared memory segment from the calling process"
+  },
+  {
+    "command": "shmctl()",
+    "description": "Performs control operations on the shared memory segment, such as removing or modifying it"
+  },
+  {
+    "command": "msgget()",
+    "description": "Create  a new message queue or gets the identifier of an existing queue"
+  },
+   {
+    "command": "msgsnd()",
+    "description": "Sends a message to a message queue"
+  },
+  {
+    "command": "msgrcv",
+    "description": "Receives a message from a message queue"
+  },
+  {
+    "command": "msgctl()",
+    "description": "Performs control operations on a message queue, such as deleting or modifying it"
   }
 ]
