@@ -62,5 +62,97 @@
   {
     "command": "ln",
     "description": "Create links between files"
+  },
+  {
+    "command": "Owner (User)",
+    "description": "Theuser whoowns the file"
+  },
+  {
+    "command": "Group",
+    "description": "The group that owns the file"
+  },
+  {
+    "command": "Others",
+    "description": "All other users"
+  },
+  {
+    "command": "-",
+    "description": "Regular file"
+  },
+  {
+    "command": "d",
+    "description": "Directory"
+  },
+  {
+    "command": "l",
+    "description": "Symbolic link"
+  },
+  {
+    "command": "c",
+    "description": "Character device file"
+  },
+  {
+    "command": "p",
+    "description": "Nmaed pipe (FIFO)"
+  },
+  {
+    "command": "s",
+    "description": "Socket file"
+  },
+  {
+    "command": "r",
+    "description": "(read)"
+  },
+  {
+    "command": "w",
+    "description": "(write)"
+  },
+  {
+    "command": "x",
+    "description": "(execute)"
+  },
+  {
+    "command": "rwx",
+    "description": "The owner has read, write, and execute permissions"
+  },
+  {
+    "command": "r-x",
+    "description": "The group has read and execute permissions"
+  },
+  {
+    "command": "r--",
+    "description": "Others have read permission"
+  },
+  {
+    "command": "chmod u+x file",
+    "description": "Add execute permission for the owner"
+  },
+  {
+    "command": "chmod g-w file",
+    "description": "Remove write permission for the group"
+  },
+  {
+    "command": "chmod o=r file",
+    "description": "Set read-only permission for others"
+  },
+  {
+    "command": "chmod a+rw file",
+    "description": "Add read and write permissions for everyone"
+  },
+  {
+    "command": "7 (4+2+1)",
+    "description": "Read,write,and execute"
+  },
+  {
+    "command": "6 (4+2)",
+    "description": "Read and write"
+  },
+  {
+    "command": "5 (4+1)",
+    "description": "Read and execute"
+  },
+  {
+    "command": "4 (4)",
+    "description": "Read only"
   }
 ]
