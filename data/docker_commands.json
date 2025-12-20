@@ -1,1 +1,78 @@
+[
+  { "command": "docker --version", "description": "Check Docker version" },
+  { "command": "docker info", "description": "Show Docker system information" },
+  { "command": "docker help", "description": "Show Docker help" },
+
+  { "command": "docker images", "description": "List Docker images" },
+  { "command": "docker images -a", "description": "List all images" },
+  { "command": "docker pull ubuntu", "description": "Download image from Docker Hub" },
+  { "command": "docker search nginx", "description": "Search image on Docker Hub" },
+  { "command": "docker rmi IMAGE_ID", "description": "Remove image" },
+  { "command": "docker rmi -f IMAGE_ID", "description": "Force remove image" },
+
+  { "command": "docker ps", "description": "List running containers" },
+  { "command": "docker ps -a", "description": "List all containers" },
+  { "command": "docker run ubuntu", "description": "Run container" },
+  { "command": "docker run -it ubuntu bash", "description": "Run interactive container" },
+  { "command": "docker run -d nginx", "description": "Run container in background" },
+  { "command": "docker run -p 8080:80 nginx", "description": "Port mapping" },
+  { "command": "docker run --name mycontainer ubuntu", "description": "Run container with name" },
+
+  { "command": "docker stop CONTAINER_ID", "description": "Stop container" },
+  { "command": "docker start CONTAINER_ID", "description": "Start container" },
+  { "command": "docker restart CONTAINER_ID", "description": "Restart container" },
+  { "command": "docker pause CONTAINER_ID", "description": "Pause container" },
+  { "command": "docker unpause CONTAINER_ID", "description": "Unpause container" },
+  { "command": "docker rm CONTAINER_ID", "description": "Remove container" },
+  { "command": "docker rm -f CONTAINER_ID", "description": "Force remove container" },
+
+  { "command": "docker exec CONTAINER_ID ls", "description": "Execute command in container" },
+  { "command": "docker exec -it CONTAINER_ID bash", "description": "Access container shell" },
+  { "command": "docker logs CONTAINER_ID", "description": "View container logs" },
+  { "command": "docker logs -f CONTAINER_ID", "description": "Follow logs" },
+  { "command": "docker inspect CONTAINER_ID", "description": "Inspect container details" },
+
+  { "command": "docker build -t myimage .", "description": "Build image from Dockerfile" },
+  { "command": "docker build -f Dockerfile .", "description": "Build with custom Dockerfile" },
+  { "command": "docker tag IMAGE_ID repo/image", "description": "Tag image" },
+  { "command": "docker push repo/image", "description": "Push image to Docker Hub" },
+
+  { "command": "docker volume ls", "description": "List volumes" },
+  { "command": "docker volume create myvolume", "description": "Create volume" },
+  { "command": "docker volume inspect myvolume", "description": "Inspect volume" },
+  { "command": "docker volume rm myvolume", "description": "Remove volume" },
+
+  { "command": "docker network ls", "description": "List networks" },
+  { "command": "docker network create mynetwork", "description": "Create network" },
+  { "command": "docker network inspect mynetwork", "description": "Inspect network" },
+  { "command": "docker network rm mynetwork", "description": "Remove network" },
+  { "command": "docker network connect mynetwork CONTAINER_ID", "description": "Connect container to network" },
+  { "command": "docker network disconnect mynetwork CONTAINER_ID", "description": "Disconnect container from network" },
+
+  { "command": "docker stats", "description": "Show container resource usage" },
+  { "command": "docker top CONTAINER_ID", "description": "Show running processes in container" },
+  { "command": "docker diff CONTAINER_ID", "description": "Show file changes in container" },
+
+  { "command": "docker save -o image.tar IMAGE", "description": "Save image to file" },
+  { "command": "docker load -i image.tar", "description": "Load image from file" },
+  { "command": "docker export CONTAINER_ID > file.tar", "description": "Export container filesystem" },
+  { "command": "docker import file.tar", "description": "Import container as image" },
+
+  { "command": "docker system df", "description": "Show Docker disk usage" },
+  { "command": "docker system prune", "description": "Remove unused data" },
+  { "command": "docker system prune -a", "description": "Remove all unused images" },
+
+  { "command": "docker login", "description": "Login to Docker Hub" },
+  { "command": "docker logout", "description": "Logout from Docker Hub" },
+
+  { "command": "docker cp CONTAINER_ID:/path /local", "description": "Copy file from container" },
+  { "command": "docker cp /local CONTAINER_ID:/path", "description": "Copy file to container" },
+
+  { "command": "docker rename old_name new_name", "description": "Rename container" },
+  { "command": "docker update --restart=always CONTAINER_ID", "description": "Update container restart policy" },
+
+  { "command": "docker events", "description": "Show Docker events" },
+  { "command": "docker context ls", "description": "List Docker contexts" },
+  { "command": "docker context use default", "description": "Switch Docker context" }
+]
 
