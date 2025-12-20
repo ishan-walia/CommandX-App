@@ -1,5 +1,9 @@
 [
   {
+    "commmand": "Git & Github",
+    "description": "Git is the free and open source distributed version control system that,s responsible for everything Github related that happens locally on your computer."
+  },
+  {
     "command": "git config --global user.name \"firstname lastname\"",
     "description": "Set a name that is identifiable for credit when reviewing version history"
   },
@@ -18,5 +22,125 @@
   {
     "command": "git clone \"url\"",
     "description": "retrieve an entire repository from a hosted location via URL"
+  },
+  {
+    "commmand": "git status",
+    "description": "show modified files in working directory, staged for your next commit "
+  },
+  {
+    "commmand": "git add \"file\"",
+    "description": "add a file as it looks now to your next commit (stage) "
+  },
+  {
+    "commmand": "git reset \"file\"",
+    "description": "unstage a file while retaining the changes in working directory"
+  },
+  {
+    "commmand": "git diff",
+    "description": "diff of what is changed but not staged"
+  },
+  {
+    "commmand": "git diff --staged",
+    "description": "diff of what is staged but not yet commited"
+  },
+  {
+    "commmand": "git commit -m \"descriptive message\"",
+    "description": "commit your staged content as a new commit snapshot"
+  },
+  {
+    "commmand": "git branch",
+    "description": "list your branches .a * will appear next to the currently active branch"
+  },
+  {
+    "commmand": "git branch \"branch-name\"",
+    "description": "create a new branch at the current commit"
+  },
+  {
+    "commmand": "git checkout",
+    "description": "switch to another branch and check it out into your working directory"
+  },
+  {
+    "commmand": "git merge \"branch\"",
+    "description": "merge the specified branch's history into the current one"
+  },
+  {
+    "commmand": "git log",
+    "description": "show all commits in the current branch's history"
+  },
+  {
+    "commmand": "git log branchB..branchA",
+    "description": "show the commits on branchA that are not on branchB"
+  },
+  {
+    "commmand": "git log --follow \"file\"",
+    "description": "show the commits that changed file, even across renames"
+  },
+  {
+    "commmand": "git diff branchB..branchA",
+    "description": "show the diff of what is the branchA  that is not in branchB"
+  },
+  {
+    "commmand": "git show \"SHA\"",
+    "description": "show any object in git in human-readable format"
+  },
+  {
+    "commmand": "git rm \"file\"",
+    "description": "delete the file from project and stage the removal for commit"
+  },
+  {
+    "commmand": "git mv \"existing-path\"\"new-path\"",
+    "description": "change an existing file path and stage the move"
+  },
+  {
+    "commmand": "git log --stat -M",
+    "description": "show all commit logs with indication of any paths that moved"
+  },
+  {
+    "commmand": "git remote add \"alias\"\"url\"",
+    "description": "add a git URL as an alias"
+  },
+  {
+    "commmand": "git fetch \"alias\"",
+    "description": "fetch down all the branches from that Git remote"
+  },
+  {
+    "commmand": "git merge \"alias\"\"branch\"",
+    "description": "merge a remote branch into your current branch to bring it up to date"
+  },
+  {
+    "commmand": "git push \"alias\" \"branch\"",
+    "description": "Transmit local branch commits to the remote repository branch"
+  },
+  {
+    "commmand": "git pull",
+    "description": "fetch and merga any commits from the tracking remote branch" 
+  },
+  {
+    "commmand": "git rebase \"branch\"",
+    "description": "apply any commits of current branch ahead of specified one"
+  },
+  {
+    "commmand": "git reset --head \"commit\"",
+    "description": "clear staging area,rewrite working tree from specified commit"
+  },
+  {
+    "commmand": "git stash",
+    "description": "save modified and staged changes"
+  },
+  {
+    "commmand": "git stash list",
+    "description": "list stack-order of stashed file changes"
+  },
+  {
+    "commmand": "git stash pop",
+    "description": "write working from top of stash stack"
+  },
+  {
+    "commmand": "git stash drop",
+    "description": "discard the changes from top of stash stack"
+  },
+  {
+    "commmand": "git config --global core.excludesfile \"file\"",
+    "description": "system wide ignore pattern for all local repositories"
   }
 ]
