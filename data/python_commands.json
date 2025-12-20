@@ -1,1 +1,90 @@
+[
+  { "command": "print()", "description": "Print output" },
+  { "command": "input()", "description": "Take user input" },
+  { "command": "x = 10", "description": "Assign variable" },
+  { "command": "type(x)", "description": "Check data type" },
+  { "command": "id(x)", "description": "Get memory address" },
+
+  { "command": "if condition:", "description": "If statement" },
+  { "command": "elif condition:", "description": "Else-if statement" },
+  { "command": "else:", "description": "Else block" },
+  { "command": "for i in range(5):", "description": "For loop" },
+  { "command": "while condition:", "description": "While loop" },
+  { "command": "break", "description": "Exit loop" },
+  { "command": "continue", "description": "Skip iteration" },
+  { "command": "pass", "description": "Empty statement" },
+
+  { "command": "def func():", "description": "Define function" },
+  { "command": "return value", "description": "Return value from function" },
+  { "command": "lambda x:x+1", "description": "Anonymous function" },
+
+  { "command": "list()", "description": "Create list" },
+  { "command": "tuple()", "description": "Create tuple" },
+  { "command": "set()", "description": "Create set" },
+  { "command": "dict()", "description": "Create dictionary" },
+  { "command": "len(obj)", "description": "Length of object" },
+  { "command": "max(list)", "description": "Maximum value" },
+  { "command": "min(list)", "description": "Minimum value" },
+  { "command": "sum(list)", "description": "Sum of values" },
+  { "command": "sorted(list)", "description": "Sort list" },
+
+  { "command": "list.append(x)", "description": "Add element to list" },
+  { "command": "list.remove(x)", "description": "Remove element from list" },
+  { "command": "list.pop()", "description": "Remove last element" },
+  { "command": "list.clear()", "description": "Clear list" },
+  { "command": "list.index(x)", "description": "Get index of element" },
+
+  { "command": "dict.keys()", "description": "Get dictionary keys" },
+  { "command": "dict.values()", "description": "Get dictionary values" },
+  { "command": "dict.items()", "description": "Get key-value pairs" },
+  { "command": "dict.get(key)", "description": "Get value safely" },
+  { "command": "dict.pop(key)", "description": "Remove key" },
+
+  { "command": "set.add(x)", "description": "Add to set" },
+  { "command": "set.remove(x)", "description": "Remove from set" },
+  { "command": "set.union(s)", "description": "Union of sets" },
+  { "command": "set.intersection(s)", "description": "Intersection of sets" },
+
+  { "command": "import math", "description": "Import module" },
+  { "command": "from math import sqrt", "description": "Import specific function" },
+  { "command": "import os", "description": "OS module" },
+  { "command": "import sys", "description": "System module" },
+  { "command": "import random", "description": "Random module" },
+
+  { "command": "math.sqrt(16)", "description": "Square root" },
+  { "command": "random.randint(1,10)", "description": "Random integer" },
+  { "command": "os.getcwd()", "description": "Current working directory" },
+  { "command": "os.listdir()", "description": "List directory files" },
+
+  { "command": "open('file.txt')", "description": "Open file" },
+  { "command": "file.read()", "description": "Read file" },
+  { "command": "file.write('text')", "description": "Write to file" },
+  { "command": "file.close()", "description": "Close file" },
+  { "command": "with open() as f", "description": "Safe file handling" },
+
+  { "command": "try:", "description": "Try block" },
+  { "command": "except Exception:", "description": "Exception handling" },
+  { "command": "finally:", "description": "Finally block" },
+  { "command": "raise Exception()", "description": "Raise exception" },
+
+  { "command": "class MyClass:", "description": "Create class" },
+  { "command": "__init__(self)", "description": "Constructor" },
+  { "command": "self.variable", "description": "Instance variable" },
+  { "command": "inheritance", "description": "Class inheritance" },
+
+  { "command": "isinstance(x,int)", "description": "Check instance type" },
+  { "command": "help()", "description": "Get help" },
+  { "command": "dir(obj)", "description": "List object attributes" },
+  { "command": "enumerate(list)", "description": "Index + value loop" },
+  { "command": "zip(a,b)", "description": "Combine iterables" },
+
+  { "command": "map(func,list)", "description": "Apply function to list" },
+  { "command": "filter(func,list)", "description": "Filter list" },
+  { "command": "any(list)", "description": "Check any true" },
+  { "command": "all(list)", "description": "Check all true" },
+
+  { "command": "pip install package", "description": "Install package" },
+  { "command": "pip list", "description": "List installed packages" },
+  { "command": "pip uninstall package", "description": "Uninstall package" }
+]
 
