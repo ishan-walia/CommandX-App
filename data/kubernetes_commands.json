@@ -1,1 +1,77 @@
+[
+  { "command": "kubectl version", "description": "Show kubectl and cluster version" },
+  { "command": "kubectl cluster-info", "description": "Display cluster information" },
+  { "command": "kubectl config view", "description": "View kubeconfig settings" },
+  { "command": "kubectl config get-contexts", "description": "List kubeconfig contexts" },
+  { "command": "kubectl config use-context CONTEXT", "description": "Switch context" },
+
+  { "command": "kubectl get nodes", "description": "List cluster nodes" },
+  { "command": "kubectl describe node NODE", "description": "Describe node details" },
+  { "command": "kubectl cordon NODE", "description": "Mark node unschedulable" },
+  { "command": "kubectl uncordon NODE", "description": "Mark node schedulable" },
+  { "command": "kubectl drain NODE", "description": "Drain node for maintenance" },
+
+  { "command": "kubectl get namespaces", "description": "List namespaces" },
+  { "command": "kubectl create namespace NAME", "description": "Create namespace" },
+  { "command": "kubectl delete namespace NAME", "description": "Delete namespace" },
+  { "command": "kubectl get all -n NAMESPACE", "description": "List all resources in namespace" },
+
+  { "command": "kubectl get pods", "description": "List pods" },
+  { "command": "kubectl get pods -A", "description": "List pods in all namespaces" },
+  { "command": "kubectl describe pod POD", "description": "Describe pod" },
+  { "command": "kubectl logs POD", "description": "View pod logs" },
+  { "command": "kubectl logs -f POD", "description": "Follow pod logs" },
+  { "command": "kubectl exec POD -- ls", "description": "Run command in pod" },
+  { "command": "kubectl exec -it POD -- bash", "description": "Open shell in pod" },
+  { "command": "kubectl delete pod POD", "description": "Delete pod" },
+
+  { "command": "kubectl run nginx --image=nginx", "description": "Create pod from image" },
+  { "command": "kubectl apply -f pod.yaml", "description": "Apply configuration file" },
+  { "command": "kubectl delete -f pod.yaml", "description": "Delete resources from file" },
+  { "command": "kubectl get pod POD -o yaml", "description": "Get pod YAML" },
+
+  { "command": "kubectl get deployments", "description": "List deployments" },
+  { "command": "kubectl describe deployment DEPLOY", "description": "Describe deployment" },
+  { "command": "kubectl create deployment app --image=nginx", "description": "Create deployment" },
+  { "command": "kubectl scale deployment app --replicas=3", "description": "Scale deployment" },
+  { "command": "kubectl rollout status deployment/app", "description": "Check rollout status" },
+  { "command": "kubectl rollout history deployment/app", "description": "View rollout history" },
+  { "command": "kubectl rollout undo deployment/app", "description": "Rollback deployment" },
+  { "command": "kubectl delete deployment DEPLOY", "description": "Delete deployment" },
+
+  { "command": "kubectl get services", "description": "List services" },
+  { "command": "kubectl describe service SVC", "description": "Describe service" },
+  { "command": "kubectl expose deployment app --type=NodePort --port=80", "description": "Expose deployment" },
+  { "command": "kubectl delete service SVC", "description": "Delete service" },
+
+  { "command": "kubectl get endpoints", "description": "List service endpoints" },
+  { "command": "kubectl get ingress", "description": "List ingress resources" },
+  { "command": "kubectl describe ingress ING", "description": "Describe ingress" },
+
+  { "command": "kubectl get configmaps", "description": "List ConfigMaps" },
+  { "command": "kubectl describe configmap CM", "description": "Describe ConfigMap" },
+  { "command": "kubectl create configmap CM --from-literal=key=value", "description": "Create ConfigMap" },
+  { "command": "kubectl delete configmap CM", "description": "Delete ConfigMap" },
+
+  { "command": "kubectl get secrets", "description": "List secrets" },
+  { "command": "kubectl describe secret SEC", "description": "Describe secret" },
+  { "command": "kubectl create secret generic SEC --from-literal=key=value", "description": "Create secret" },
+  { "command": "kubectl delete secret SEC", "description": "Delete secret" },
+
+  { "command": "kubectl get pv", "description": "List persistent volumes" },
+  { "command": "kubectl get pvc", "description": "List persistent volume claims" },
+  { "command": "kubectl describe pvc PVC", "description": "Describe PVC" },
+
+  { "command": "kubectl top nodes", "description": "Show node resource usage" },
+  { "command": "kubectl top pods", "description": "Show pod resource usage" },
+
+  { "command": "kubectl api-resources", "description": "List API resources" },
+  { "command": "kubectl explain pod", "description": "Explain resource fields" },
+
+  { "command": "kubectl label pod POD key=value", "description": "Add label to pod" },
+  { "command": "kubectl annotate pod POD key=value", "description": "Add annotation to pod" },
+
+  { "command": "kubectl get events", "description": "List cluster events" },
+  { "command": "kubectl delete all --all", "description": "Delete all resources in namespace" }
+]
 
