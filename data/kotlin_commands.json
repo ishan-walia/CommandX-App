@@ -1,1 +1,77 @@
+[
+  { "command": "public static void main(String[] args)", "description": "Program entry point" },
+  { "command": "System.out.println()", "description": "Print output" },
+  { "command": "int x = 10;", "description": "Integer variable" },
+  { "command": "double d = 10.5;", "description": "Double variable" },
+  { "command": "char c = 'A';", "description": "Character variable" },
+  { "command": "boolean flag = true;", "description": "Boolean variable" },
+  { "command": "String s = \"Hello\";", "description": "String variable" },
+
+  { "command": "if(condition)", "description": "If statement" },
+  { "command": "else if(condition)", "description": "Else-if statement" },
+  { "command": "else", "description": "Else block" },
+  { "command": "switch(value)", "description": "Switch statement" },
+
+  { "command": "for(int i=0;i<5;i++)", "description": "For loop" },
+  { "command": "while(condition)", "description": "While loop" },
+  { "command": "do {} while(condition)", "description": "Do-while loop" },
+  { "command": "break", "description": "Exit loop" },
+  { "command": "continue", "description": "Skip iteration" },
+
+  { "command": "class MyClass {}", "description": "Create class" },
+  { "command": "new MyClass()", "description": "Create object" },
+  { "command": "this", "description": "Current object reference" },
+  { "command": "static", "description": "Class-level member" },
+  { "command": "final", "description": "Constant keyword" },
+
+  { "command": "extends", "description": "Inheritance" },
+  { "command": "implements", "description": "Interface implementation" },
+  { "command": "abstract class", "description": "Abstract class" },
+  { "command": "interface", "description": "Interface declaration" },
+
+  { "command": "ArrayList<>", "description": "Dynamic array" },
+  { "command": "LinkedList<>", "description": "Linked list" },
+  { "command": "HashSet<>", "description": "Unique collection" },
+  { "command": "HashMap<>", "description": "Key-value map" },
+  { "command": "TreeMap<>", "description": "Sorted map" },
+
+  { "command": "try { }", "description": "Try block" },
+  { "command": "catch(Exception e)", "description": "Catch exception" },
+  { "command": "finally", "description": "Finally block" },
+  { "command": "throw new Exception()", "description": "Throw exception" },
+  { "command": "throws Exception", "description": "Declare exception" },
+
+  { "command": "import java.util.*", "description": "Import package" },
+  { "command": "Scanner sc = new Scanner(System.in)", "description": "User input" },
+  { "command": "sc.nextInt()", "description": "Read integer input" },
+
+  { "command": "File file = new File()", "description": "Create file object" },
+  { "command": "FileReader", "description": "Read file" },
+  { "command": "FileWriter", "description": "Write file" },
+
+  { "command": "Thread t = new Thread()", "description": "Create thread" },
+  { "command": "t.start()", "description": "Start thread" },
+  { "command": "synchronized", "description": "Thread synchronization" },
+
+  { "command": "System.gc()", "description": "Request garbage collection" },
+  { "command": "Runtime.getRuntime()", "description": "Runtime instance" },
+  { "command": "Math.sqrt(16)", "description": "Square root" },
+  { "command": "Math.random()", "description": "Random number" },
+
+  { "command": "Arrays.sort(arr)", "description": "Sort array" },
+  { "command": "Collections.sort(list)", "description": "Sort list" },
+
+  { "command": "equals()", "description": "Compare objects" },
+  { "command": "hashCode()", "description": "Hash code method" },
+  { "command": "toString()", "description": "String representation" },
+
+  { "command": "enum Day {}", "description": "Enum declaration" },
+  { "command": "assert condition;", "description": "Assertion" },
+  { "command": "Optional<>", "description": "Optional container" },
+
+  { "command": "Stream.of()", "description": "Create stream" },
+  { "command": "stream.filter()", "description": "Filter stream" },
+  { "command": "stream.map()", "description": "Map stream" },
+  { "command": "stream.forEach()", "description": "Iterate stream" }
+]
 
