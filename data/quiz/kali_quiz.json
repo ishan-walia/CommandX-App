@@ -1,0 +1,7 @@
+[
+  {
+    "question": "Which tool is used for packet capture?",
+    "options": ["wireshark", "nmap", "hydra", "sqlmap"],
+    "answer": "wireshark"
+  }
+]
