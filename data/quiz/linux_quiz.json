@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Which command is used to list files in Linux?",
+    "options": ["ls", "cd", "pwd", "rm"],
+    "answer": "ls"
+  },
+  {
+    "question": "Which command shows current directory?",
+    "options": ["pwd", "ls", "cd", "mkdir"],
+    "answer": "pwd"
+  }
+]
