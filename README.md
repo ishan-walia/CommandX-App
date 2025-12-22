@@ -45,7 +45,14 @@ CommandX is built to support **Linux, Git, GitHub, and Kali Linux commands**, wi
 - **Minimum SDK:** 21 (Android 5.0)
 
 ---
-
+## screenShort
+<p align="">
+  <img src="">
+  <img src="">
+  <img src="">
+  <img src="">
+  <img src="">
+</p>
 ## Disclaimer
 
 This app is made for **educational purposes only**.  
