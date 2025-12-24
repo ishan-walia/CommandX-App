@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Which command lists running containers?",
+    "options": ["docker ps", "docker run", "docker images", "docker stop"],
+    "answer": "docker ps"
+  },
+  {
+    "question": "Which command builds image?",
+    "options": ["docker pull", "docker build", "docker push", "docker rm"],
+    "answer": "docker build"
+  }
+]
