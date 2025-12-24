@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which macro is used to print output in Rust?",
+    "options": ["println!", "print()", "cout", "echo"],
+    "answer": "println!"
+  },
+  {
+    "question": "Which keyword is used to declare a variable?",
+    "options": ["let", "var", "int", "define"],
+    "answer": "let"
+  },
+  {
+    "question": "How do you make a variable mutable?",
+    "options": ["mut", "change", "var", "edit"],
+    "answer": "mut"
+  },
+  {
+    "question": "Which keyword is used to define a function?",
+    "options": ["fn", "def", "fun", "function"],
+    "answer": "fn"
+  },
+  {
+    "question": "Which symbol ends a statement in Rust?",
+    "options": [";", ":", ".", "|"],
+    "answer": ";"
+  },
+  {
+    "question": "Which keyword is used to define a structure?",
+    "options": ["struct", "class", "object", "new"],
+    "answer": "struct"
+  },
+  {
+    "question": "Which keyword is used to define an enum?",
+    "options": ["enum", "struct", "class", "type"],
+    "answer": "enum"
+  },
+  {
+    "question": "Which type handles success or failure?",
+    "options": ["Result", "Option", "Error", "Try"],
+    "answer": "Result"
+  },
+  {
+    "question": "Which type represents optional values?",
+    "options": ["Option", "Maybe", "Null", "Value"],
+    "answer": "Option"
+  },
+  {
+    "question": "Which operator is used for borrowing?",
+    "options": ["&", "*", "#", "@"],
+    "answer": "&"
+  },
+  {
+    "question": "Which operator is used to dereference?",
+    "options": ["*", "&", "#", "@"],
+    "answer": "*"
+  },
+  {
+    "question": "Which collection type is used for dynamic arrays?",
+    "options": ["Vec", "List", "Set", "Map"],
+    "answer": "Vec"
+  },
+  {
+    "question": "Which keyword is used for pattern matching?",
+    "options": ["match", "if", "case", "switch"],
+    "answer": "match"
+  },
+  {
+    "question": "Which keyword is used to import a module?",
+    "options": ["use", "import", "include", "require"],
+    "answer": "use"
+  },
+  {
+    "question": "Which tool compiles Rust programs?",
+    "options": ["rustc", "cargo", "gcc", "clang"],
+    "answer": "rustc"
+  },
+  {
+    "question": "Which tool manages Rust packages?",
+    "options": ["cargo", "npm", "pip", "brew"],
+    "answer": "cargo"
+  },
+  {
+    "question": "Which command runs a Rust project?",
+    "options": ["cargo run", "rust run", "run", "execute"],
+    "answer": "cargo run"
+  },
+  {
+    "question": "Which keyword creates a constant?",
+    "options": ["const", "let", "mut", "static"],
+    "answer": "const"
+  },
+  {
+    "question": "Which lifetime annotation symbol is used?",
+    "options": ["'", "#", "@", "$"],
+    "answer": "'"
+  },
+  {
+    "question": "Which comment syntax is used in Rust?",
+    "options": ["//", "##", "<!-- -->", "**"],
+    "answer": "//"
+  }
+]
