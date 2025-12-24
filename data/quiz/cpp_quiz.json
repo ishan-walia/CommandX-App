@@ -1,0 +1,22 @@
+[
+ {"question":"Which prints output?","options":["cout","printf","print","echo"],"answer":"cout"},
+ {"question":"Which takes input?","options":["cin","scanf","input","read"],"answer":"cin"},
+ {"question":"Which namespace used?","options":["std","main","global","system"],"answer":"std"},
+ {"question":"Which creates object?","options":["new","make","create","alloc"],"answer":"new"},
+ {"question":"Which comment?","options":["//","##","<!--","**"],"answer":"//"},
+ {"question":"Which includes header?","options":["#include","import","using","require"],"answer":"#include"},
+ {"question":"Which defines class?","options":["class","struct","object","new"],"answer":"class"},
+ {"question":"Which inherits class?","options":[":","extends","inherit","base"],"answer":":"},
+ {"question":"Which ends line?","options":[";"," :",".","|"],"answer":";"},
+ {"question":"Which is virtual function?","options":["virtual","static","final","const"],"answer":"virtual"},
+ {"question":"Which creates constructor?","options":["ClassName()","new()","make()","create()"],"answer":"ClassName()"},
+ {"question":"Which destroys object?","options":["destructor","delete","remove","free"],"answer":"delete"},
+ {"question":"Which operator overload?","options":["operator","overload","op","func"],"answer":"operator"},
+ {"question":"Which is STL vector?","options":["vector","array","list","set"],"answer":"vector"},
+ {"question":"Which stores key-value?","options":["map","list","vector","set"],"answer":"map"},
+ {"question":"Which loops?","options":["for","repeat","each","loop"],"answer":"for"},
+ {"question":"Which checks type?","options":["typeid","typeof","is","check"],"answer":"typeid"},
+ {"question":"Which converts type?","options":["static_cast","convert","cast","to"],"answer":"static_cast"},
+ {"question":"Which handles exception?","options":["try-catch","handle","fix","error"],"answer":"try-catch"},
+ {"question":"Which smart pointer?","options":["unique_ptr","raw_ptr","auto_ptr","ptr"],"answer":"unique_ptr"}
+]
