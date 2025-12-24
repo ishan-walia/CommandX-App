@@ -1,0 +1,22 @@
+[
+ {"question":"Which is Kotlin main function?","options":["fun main()","public main()","void main()","main()"],"answer":"fun main()"},
+ {"question":"Which keyword creates variable?","options":["var","let","define","valr"],"answer":"var"},
+ {"question":"Which is immutable variable?","options":["val","var","fix","const"],"answer":"val"},
+ {"question":"Which prints output?","options":["println","print","echo","show"],"answer":"println"},
+ {"question":"Which defines function?","options":["fun","function","def","method"],"answer":"fun"},
+ {"question":"Which handles null safety?","options":["?","!","@","&"],"answer":"?"},
+ {"question":"Which force unwraps null?","options":["!!","?","!","null"],"answer":"!!"},
+ {"question":"Which creates class?","options":["class","struct","object","new"],"answer":"class"},
+ {"question":"Which keyword inherits class?","options":["open","extends","inherit","base"],"answer":"open"},
+ {"question":"Which creates object?","options":["val a = A()","new A","create A","object A"],"answer":"val a = A()"},
+ {"question":"Which defines data class?","options":["data class","model class","record class","value class"],"answer":"data class"},
+ {"question":"Which loops through range?","options":["for","loop","repeat","while"],"answer":"for"},
+ {"question":"Which handles multiple cases?","options":["when","if","switch","case"],"answer":"when"},
+ {"question":"Which concatenates string?","options":["$","&","+","%"],"answer":"$"},
+ {"question":"Which reads input?","options":["readLine()","input()","scan()","get()"],"answer":"readLine()"},
+ {"question":"Which imports package?","options":["import","include","using","require"],"answer":"import"},
+ {"question":"Which checks type?","options":["is","typeof","instance","as"],"answer":"is"},
+ {"question":"Which casts type?","options":["as","to","cast","is"],"answer":"as"},
+ {"question":"Which throws exception?","options":["throw","error","exception","raise"],"answer":"throw"},
+ {"question":"Which catches error?","options":["catch","handle","fix","trap"],"answer":"catch"}
+]
