@@ -1,12 +1,22 @@
 [
-  {
-    "question": "Which tool is used for WiFi hacking?",
-    "options": ["nmap", "aircrack-ng", "wireshark", "tcpdump"],
-    "answer": "aircrack-ng"
-  },
-  {
-    "question": "Default Kali user?",
-    "options": ["root", "admin", "kali", "user"],
-    "answer": "kali"
-  }
+  {"question":"Which tool is used for WiFi hacking?","options":["aircrack-ng","nmap","sqlmap","hydra"],"answer":"aircrack-ng"},
+  {"question":"Which tool scans ports?","options":["nmap","hydra","wireshark","setoolkit"],"answer":"nmap"},
+  {"question":"Which tool cracks passwords?","options":["hydra","dirb","nikto","airmon-ng"],"answer":"hydra"},
+  {"question":"Which tool is used for SQL injection?","options":["sqlmap","nmap","hydra","wireshark"],"answer":"sqlmap"},
+  {"question":"Which tool captures network packets?","options":["wireshark","aircrack-ng","dirb","nikto"],"answer":"wireshark"},
+  {"question":"Which tool creates phishing pages?","options":["setoolkit","sqlmap","hydra","nmap"],"answer":"setoolkit"},
+  {"question":"Which command updates Kali?","options":["apt update","yum update","update","refresh"],"answer":"apt update"},
+  {"question":"Which tool scans vulnerabilities?","options":["nikto","hydra","sqlmap","dirb"],"answer":"nikto"},
+  {"question":"Which tool brute forces directories?","options":["dirb","nmap","hydra","aircrack"],"answer":"dirb"},
+  {"question":"Which tool enables monitor mode?","options":["airmon-ng","ifconfig","netstat","ping"],"answer":"airmon-ng"},
+  {"question":"Which tool generates payload?","options":["msfvenom","nmap","hydra","dirb"],"answer":"msfvenom"},
+  {"question":"Which tool opens Metasploit?","options":["msfconsole","msfvenom","hydra","sqlmap"],"answer":"msfconsole"},
+  {"question":"Which command shows IP?","options":["ifconfig","whoami","pwd","ls"],"answer":"ifconfig"},
+  {"question":"Which tool scans web vulnerabilities?","options":["nikto","nmap","dirb","hydra"],"answer":"nikto"},
+  {"question":"Which tool brute forces login?","options":["hydra","sqlmap","dirb","aircrack"],"answer":"hydra"},
+  {"question":"Which command installs tools?","options":["apt install","yum install","install","setup"],"answer":"apt install"},
+  {"question":"Which tool captures handshakes?","options":["airodump-ng","nmap","hydra","dirb"],"answer":"airodump-ng"},
+  {"question":"Which tool cracks handshake?","options":["aircrack-ng","airodump-ng","hydra","dirb"],"answer":"aircrack-ng"},
+  {"question":"Which tool scans LAN devices?","options":["netdiscover","nmap","dirb","hydra"],"answer":"netdiscover"},
+  {"question":"Which tool monitors traffic?","options":["tcpdump","sqlmap","dirb","hydra"],"answer":"tcpdump"}
 ]
