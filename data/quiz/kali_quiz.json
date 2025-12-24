@@ -1,7 +1,12 @@
 [
   {
-    "question": "Which tool is used for packet capture?",
-    "options": ["wireshark", "nmap", "hydra", "sqlmap"],
-    "answer": "wireshark"
+    "question": "Which tool is used for WiFi hacking?",
+    "options": ["nmap", "aircrack-ng", "wireshark", "tcpdump"],
+    "answer": "aircrack-ng"
+  },
+  {
+    "question": "Default Kali user?",
+    "options": ["root", "admin", "kali", "user"],
+    "answer": "kali"
   }
 ]
