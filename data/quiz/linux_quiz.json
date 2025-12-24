@@ -1,12 +1,102 @@
 [
   {
-    "question": "Which command is used to list files in Linux?",
-    "options": ["ls", "cd", "pwd", "rm"],
-    "answer": "ls"
+    "question": "Which command shows current working directory?",
+    "options": ["pwd", "ls", "whoami", "dir"],
+    "answer": "pwd"
   },
   {
-    "question": "Which command shows current directory?",
-    "options": ["pwd", "ls", "cd", "mkdir"],
-    "answer": "pwd"
+    "question": "Which command lists all files including hidden?",
+    "options": ["ls -a", "ls -l", "dir", "show"],
+    "answer": "ls -a"
+  },
+  {
+    "question": "Which command is used to change directory?",
+    "options": ["cd", "mv", "cp", "pwd"],
+    "answer": "cd"
+  },
+  {
+    "question": "Which command creates a new directory?",
+    "options": ["mkdir", "touch", "newdir", "createdir"],
+    "answer": "mkdir"
+  },
+  {
+    "question": "Which command deletes a directory?",
+    "options": ["rmdir", "remove", "deldir", "rmfile"],
+    "answer": "rmdir"
+  },
+  {
+    "question": "Which command displays file content?",
+    "options": ["cat", "show", "type", "open"],
+    "answer": "cat"
+  },
+  {
+    "question": "Which command is used to copy files?",
+    "options": ["cp", "mv", "copy", "clone"],
+    "answer": "cp"
+  },
+  {
+    "question": "Which command moves or renames files?",
+    "options": ["mv", "cp", "rn", "move"],
+    "answer": "mv"
+  },
+  {
+    "question": "Which command shows currently logged user?",
+    "options": ["whoami", "who", "me", "login"],
+    "answer": "whoami"
+  },
+  {
+    "question": "Which command removes files?",
+    "options": ["rm", "delete", "del", "remove"],
+    "answer": "rm"
+  },
+  {
+    "question": "Which command shows IP address?",
+    "options": ["ip a", "ifshow", "net", "who"],
+    "answer": "ip a"
+  },
+  {
+    "question": "Which command checks disk usage?",
+    "options": ["df -h", "du -a", "disk", "space"],
+    "answer": "df -h"
+  },
+  {
+    "question": "Which command shows running processes?",
+    "options": ["ps", "task", "run", "jobs"],
+    "answer": "ps"
+  },
+  {
+    "question": "Which command changes file permission?",
+    "options": ["chmod", "chown", "perm", "grant"],
+    "answer": "chmod"
+  },
+  {
+    "question": "Which command changes file owner?",
+    "options": ["chown", "chmod", "owner", "change"],
+    "answer": "chown"
+  },
+  {
+    "question": "Which command displays first lines of file?",
+    "options": ["head", "start", "top", "open"],
+    "answer": "head"
+  },
+  {
+    "question": "Which command displays last lines of file?",
+    "options": ["tail", "end", "finish", "close"],
+    "answer": "tail"
+  },
+  {
+    "question": "Which command is used to search text in file?",
+    "options": ["grep", "find", "search", "locate"],
+    "answer": "grep"
+  },
+  {
+    "question": "Which command shows system uptime?",
+    "options": ["uptime", "time", "date", "clock"],
+    "answer": "uptime"
+  },
+  {
+    "question": "Which command reboots the system?",
+    "options": ["reboot", "shutdown", "poweroff", "restart"],
+    "answer": "reboot"
   }
 ]
