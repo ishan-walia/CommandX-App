@@ -1,0 +1,22 @@
+[
+ {"question":"Which is Java entry point?","options":["public static void main","main()","start()","run()"],"answer":"public static void main"},
+ {"question":"Which prints output?","options":["System.out.println","print","echo","show"],"answer":"System.out.println"},
+ {"question":"Which creates object?","options":["new","create","make","build"],"answer":"new"},
+ {"question":"Which keyword inherits class?","options":["extends","implements","inherit","base"],"answer":"extends"},
+ {"question":"Which keyword implements interface?","options":["implements","extends","inherits","base"],"answer":"implements"},
+ {"question":"Which is immutable class?","options":["String","StringBuilder","ArrayList","HashMap"],"answer":"String"},
+ {"question":"Which handles exceptions?","options":["try-catch","handle","error","fix"],"answer":"try-catch"},
+ {"question":"Which stores key-value?","options":["HashMap","ArrayList","LinkedList","Set"],"answer":"HashMap"},
+ {"question":"Which loops fixed times?","options":["for","while","do","repeat"],"answer":"for"},
+ {"question":"Which loops till condition true?","options":["while","for","do","repeat"],"answer":"while"},
+ {"question":"Which stores multiple values?","options":["Array","int","String","double"],"answer":"Array"},
+ {"question":"Which file compiles Java?","options":["javac","java","jdk","jar"],"answer":"javac"},
+ {"question":"Which runs Java program?","options":["java","javac","run","execute"],"answer":"java"},
+ {"question":"Which keyword stops loop?","options":["break","stop","exit","end"],"answer":"break"},
+ {"question":"Which keyword skips iteration?","options":["continue","skip","pass","next"],"answer":"continue"},
+ {"question":"Which hides data?","options":["private","public","static","final"],"answer":"private"},
+ {"question":"Which allows inheritance?","options":["protected","private","final","static"],"answer":"protected"},
+ {"question":"Which prevents inheritance?","options":["final","static","private","sealed"],"answer":"final"},
+ {"question":"Which stores decimal?","options":["double","int","char","boolean"],"answer":"double"},
+ {"question":"Which stores true/false?","options":["boolean","int","char","double"],"answer":"boolean"}
+]
