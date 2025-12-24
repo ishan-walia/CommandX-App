@@ -1,12 +1,22 @@
 [
-  {
-    "question": "Which command prints working directory?",
-    "options": ["pwd", "ls", "cd", "whoami"],
-    "answer": "pwd"
-  },
-  {
-    "question": "Which command is used to list files?",
-    "options": ["cat", "ls", "touch", "rm"],
-    "answer": "ls"
-  }
+  {"question":"Which symbol stores variable?","options":["=","$","@","&"],"answer":"="},
+  {"question":"Which prints text?","options":["echo","print","say","show"],"answer":"echo"},
+  {"question":"Which starts a script?","options":["#!/bin/bash","#include","start","run"],"answer":"#!/bin/bash"},
+  {"question":"Which shows arguments?","options":["$@","$#","$$","$?"],"answer":"$@"},
+  {"question":"Which gives exit status?","options":["$?","$@","$$","$#"],"answer":"$?"},
+  {"question":"Which loops until false?","options":["while","for","do","loop"],"answer":"while"},
+  {"question":"Which loops through list?","options":["for","loop","repeat","while"],"answer":"for"},
+  {"question":"Which ends script?","options":["exit","stop","end","break"],"answer":"exit"},
+  {"question":"Which checks condition?","options":["if","when","case","do"],"answer":"if"},
+  {"question":"Which reads user input?","options":["read","input","scan","get"],"answer":"read"},
+  {"question":"Which shows script name?","options":["$0","$1","$$","$@"],"answer":"$0"},
+  {"question":"Which sleeps script?","options":["sleep","wait","pause","delay"],"answer":"sleep"},
+  {"question":"Which repeats command?","options":["watch","repeat","loop","again"],"answer":"watch"},
+  {"question":"Which removes file?","options":["rm","del","erase","delete"],"answer":"rm"},
+  {"question":"Which makes executable?","options":["chmod +x","run","exec","start"],"answer":"chmod +x"},
+  {"question":"Which joins commands?","options":["&&","||",";","|"],"answer":"&&"},
+  {"question":"Which pipes output?","options":["|","||","&&",";"],"answer":"|"},
+  {"question":"Which finds text?","options":["grep","find","locate","search"],"answer":"grep"},
+  {"question":"Which schedules job?","options":["crontab","schedule","job","timer"],"answer":"crontab"},
+  {"question":"Which compresses file?","options":["tar","zip","gzip","rar"],"answer":"tar"}
 ]
