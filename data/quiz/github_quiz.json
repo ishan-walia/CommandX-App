@@ -1,0 +1,22 @@
+[
+ {"question":"Which command clones repository?","options":["git clone","git pull","git copy","git fork"],"answer":"git clone"},
+ {"question":"Which uploads changes?","options":["git push","git send","git upload","git commit"],"answer":"git push"},
+ {"question":"Which downloads changes?","options":["git pull","git get","git download","git fetch"],"answer":"git pull"},
+ {"question":"Which saves changes?","options":["git commit","git save","git push","git add"],"answer":"git commit"},
+ {"question":"Which stages file?","options":["git add","git stage","git load","git file"],"answer":"git add"},
+ {"question":"Which shows branch?","options":["git branch","git tree","git show","git version"],"answer":"git branch"},
+ {"question":"Which changes branch?","options":["git checkout","git change","git move","git shift"],"answer":"git checkout"},
+ {"question":"Which creates new branch?","options":["git checkout -b","git new","git branch new","git fork"],"answer":"git checkout -b"},
+ {"question":"Which merges branch?","options":["git merge","git join","git combine","git add"],"answer":"git merge"},
+ {"question":"Which shows log?","options":["git log","git history","git list","git info"],"answer":"git log"},
+ {"question":"Which removes file?","options":["git rm","git del","git remove","git clear"],"answer":"git rm"},
+ {"question":"Which resets changes?","options":["git reset","git undo","git cancel","git revert"],"answer":"git reset"},
+ {"question":"Which undoes commit?","options":["git revert","git undo","git back","git reset"],"answer":"git revert"},
+ {"question":"Which shows status?","options":["git status","git info","git list","git state"],"answer":"git status"},
+ {"question":"Which adds remote?","options":["git remote add","git push","git clone","git origin"],"answer":"git remote add"},
+ {"question":"Which lists remotes?","options":["git remote -v","git list","git show","git remote"],"answer":"git remote -v"},
+ {"question":"Which initializes repo?","options":["git init","git start","git new","git begin"],"answer":"git init"},
+ {"question":"Which fetches without merge?","options":["git fetch","git pull","git copy","git grab"],"answer":"git fetch"},
+ {"question":"Which renames branch?","options":["git branch -m","git rename","git move","git change"],"answer":"git branch -m"},
+ {"question":"Which stashes changes?","options":["git stash","git hide","git temp","git store"],"answer":"git stash"}
+]
