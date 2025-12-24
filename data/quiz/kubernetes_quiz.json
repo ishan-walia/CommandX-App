@@ -1,0 +1,22 @@
+[
+ {"question":"Which manages containers?","options":["Kubernetes","Docker","VMware","Linux"],"answer":"Kubernetes"},
+ {"question":"Which is smallest unit?","options":["Pod","Node","Cluster","Service"],"answer":"Pod"},
+ {"question":"Which exposes service?","options":["Service","Pod","Node","Ingress"],"answer":"Service"},
+ {"question":"Which schedules pods?","options":["Scheduler","Controller","API","Kubelet"],"answer":"Scheduler"},
+ {"question":"Which runs on node?","options":["Kubelet","Scheduler","Proxy","Master"],"answer":"Kubelet"},
+ {"question":"Which stores config?","options":["ConfigMap","Pod","Node","Service"],"answer":"ConfigMap"},
+ {"question":"Which stores secrets?","options":["Secret","ConfigMap","Volume","Token"],"answer":"Secret"},
+ {"question":"Which balances load?","options":["Service","Pod","Ingress","Node"],"answer":"Service"},
+ {"question":"Which file defines resources?","options":["YAML","JSON","TXT","INI"],"answer":"YAML"},
+ {"question":"Which command lists pods?","options":["kubectl get pods","kubectl list","kubectl show","kubectl pods"],"answer":"kubectl get pods"},
+ {"question":"Which deletes pod?","options":["kubectl delete pod","kubectl remove pod","kubectl del","kubectl drop"],"answer":"kubectl delete pod"},
+ {"question":"Which creates resource?","options":["kubectl apply","kubectl start","kubectl run","kubectl exec"],"answer":"kubectl apply"},
+ {"question":"Which shows nodes?","options":["kubectl get nodes","kubectl nodes","kubectl list nodes","kubectl node"],"answer":"kubectl get nodes"},
+ {"question":"Which runs container?","options":["Pod","Service","Node","Volume"],"answer":"Pod"},
+ {"question":"Which is cluster brain?","options":["Master","Worker","Node","Proxy"],"answer":"Master"},
+ {"question":"Which namespace isolates resources?","options":["Namespace","Cluster","Node","Pod"],"answer":"Namespace"},
+ {"question":"Which autoscaling?","options":["HPA","Service","Node","Pod"],"answer":"HPA"},
+ {"question":"Which updates deployment?","options":["kubectl rollout","kubectl update","kubectl change","kubectl move"],"answer":"kubectl rollout"},
+ {"question":"Which checks logs?","options":["kubectl logs","kubectl show","kubectl view","kubectl print"],"answer":"kubectl logs"},
+ {"question":"Which accesses pod shell?","options":["kubectl exec","kubectl open","kubectl ssh","kubectl in"],"answer":"kubectl exec"}
+]
