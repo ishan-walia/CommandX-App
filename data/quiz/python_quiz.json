@@ -1,0 +1,22 @@
+[
+ {"question":"Which prints output?","options":["print()","echo()","show()","println()"],"answer":"print()"},
+ {"question":"Which takes input?","options":["input()","scan()","read()","get()"],"answer":"input()"},
+ {"question":"Which defines function?","options":["def","fun","function","define"],"answer":"def"},
+ {"question":"Which creates list?","options":["[]","{}","()","<>"],"answer":"[]"},
+ {"question":"Which creates dictionary?","options":["{}","[]","()","<>"],"answer":"{}"},
+ {"question":"Which checks length?","options":["len()","size()","length()","count()"],"answer":"len()"},
+ {"question":"Which imports module?","options":["import","include","using","require"],"answer":"import"},
+ {"question":"Which repeats loop?","options":["for","repeat","loop","run"],"answer":"for"},
+ {"question":"Which conditional statement?","options":["if","when","case","switch"],"answer":"if"},
+ {"question":"Which exits loop?","options":["break","stop","exit","pass"],"answer":"break"},
+ {"question":"Which skips loop iteration?","options":["continue","skip","next","pass"],"answer":"continue"},
+ {"question":"Which creates class?","options":["class","struct","object","new"],"answer":"class"},
+ {"question":"Which checks type?","options":["type()","typeof","is","check"],"answer":"type()"},
+ {"question":"Which converts to int?","options":["int()","str()","float()","bool()"],"answer":"int()"},
+ {"question":"Which creates tuple?","options":["()","[]","{}","<>"],"answer":"()"},
+ {"question":"Which adds element to list?","options":["append()","add()","push()","insert()"],"answer":"append()"},
+ {"question":"Which deletes element?","options":["del","remove","delete","clear"],"answer":"del"},
+ {"question":"Which handles exception?","options":["try-except","catch","handle","fix"],"answer":"try-except"},
+ {"question":"Which raises error?","options":["raise","throw","error","exception"],"answer":"raise"},
+ {"question":"Which comment symbol?","options":["#","//","<!--","/*"],"answer":"#"}
+]
