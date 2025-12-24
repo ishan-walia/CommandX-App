@@ -1,12 +1,22 @@
 [
-  {
-    "question": "Which command lists running containers?",
-    "options": ["docker ps", "docker run", "docker images", "docker stop"],
-    "answer": "docker ps"
-  },
-  {
-    "question": "Which command builds image?",
-    "options": ["docker pull", "docker build", "docker push", "docker rm"],
-    "answer": "docker build"
-  }
+  {"question":"Which runs a container?","options":["docker run","docker start","docker exec","docker pull"],"answer":"docker run"},
+  {"question":"Which lists containers?","options":["docker ps","docker ls","docker show","docker view"],"answer":"docker ps"},
+  {"question":"Which pulls image?","options":["docker pull","docker get","docker load","docker push"],"answer":"docker pull"},
+  {"question":"Which builds image?","options":["docker build","docker make","docker image","docker pack"],"answer":"docker build"},
+  {"question":"Which stops container?","options":["docker stop","docker kill","docker pause","docker close"],"answer":"docker stop"},
+  {"question":"Which removes container?","options":["docker rm","docker del","docker clear","docker remove"],"answer":"docker rm"},
+  {"question":"Which lists images?","options":["docker images","docker list","docker view","docker show"],"answer":"docker images"},
+  {"question":"Which removes image?","options":["docker rmi","docker del","docker rm","docker clear"],"answer":"docker rmi"},
+  {"question":"Which runs command in container?","options":["docker exec","docker run","docker enter","docker open"],"answer":"docker exec"},
+  {"question":"Which shows logs?","options":["docker logs","docker view","docker show","docker info"],"answer":"docker logs"},
+  {"question":"Which shows docker info?","options":["docker info","docker show","docker version","docker data"],"answer":"docker info"},
+  {"question":"Which checks version?","options":["docker version","docker ver","docker show","docker info"],"answer":"docker version"},
+  {"question":"Which starts stopped container?","options":["docker start","docker run","docker exec","docker open"],"answer":"docker start"},
+  {"question":"Which stops all containers?","options":["docker stop $(docker ps -q)","docker stop all","docker kill all","docker close all"],"answer":"docker stop $(docker ps -q)"},
+  {"question":"Which removes all containers?","options":["docker rm $(docker ps -aq)","docker rm all","docker clear","docker del all"],"answer":"docker rm $(docker ps -aq)"},
+  {"question":"Which removes all images?","options":["docker rmi $(docker images -q)","docker clear","docker rm all","docker del all"],"answer":"docker rmi $(docker images -q)"},
+  {"question":"Which saves image?","options":["docker save","docker store","docker pack","docker backup"],"answer":"docker save"},
+  {"question":"Which loads image?","options":["docker load","docker import","docker restore","docker open"],"answer":"docker load"},
+  {"question":"Which tags image?","options":["docker tag","docker label","docker name","docker rename"],"answer":"docker tag"},
+  {"question":"Which pushes image?","options":["docker push","docker send","docker upload","docker export"],"answer":"docker push"}
 ]
