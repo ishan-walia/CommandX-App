@@ -1,0 +1,22 @@
+[
+ {"question":"Which prints output?","options":["printf","print","echo","cout"],"answer":"printf"},
+ {"question":"Which takes input?","options":["scanf","input","read","cin"],"answer":"scanf"},
+ {"question":"Which defines main?","options":["int main()","main()","void main","start()"],"answer":"int main()"},
+ {"question":"Which creates variable?","options":["int","var","define","let"],"answer":"int"},
+ {"question":"Which ends statement?","options":[";"," :",".","|"],"answer":";"},
+ {"question":"Which comment?","options":["//","##","<!--","**"],"answer":"//"},
+ {"question":"Which includes header?","options":["#include","import","using","require"],"answer":"#include"},
+ {"question":"Which loop?","options":["for","repeat","loop","each"],"answer":"for"},
+ {"question":"Which conditional?","options":["if","when","switch","case"],"answer":"if"},
+ {"question":"Which exits loop?","options":["break","stop","exit","end"],"answer":"break"},
+ {"question":"Which skips iteration?","options":["continue","skip","next","pass"],"answer":"continue"},
+ {"question":"Which stores decimal?","options":["float","int","char","bool"],"answer":"float"},
+ {"question":"Which stores character?","options":["char","int","string","bool"],"answer":"char"},
+ {"question":"Which array index starts?","options":["0","1","-1","2"],"answer":"0"},
+ {"question":"Which function ends program?","options":["return","exit","stop","end"],"answer":"return"},
+ {"question":"Which pointer symbol?","options":["*","&","#","@"],"answer":"*"},
+ {"question":"Which address operator?","options":["&","*","#","@"],"answer":"&"},
+ {"question":"Which string function?","options":["strlen","len","size","count"],"answer":"strlen"},
+ {"question":"Which compares string?","options":["strcmp","compare","strcompare","check"],"answer":"strcmp"},
+ {"question":"Which allocates memory?","options":["malloc","alloc","new","create"],"answer":"malloc"}
+]
