@@ -46,13 +46,14 @@ CommandX is built to support **Linux, Git, GitHub, and Kali Linux commands**, wi
 
 ---
 ## screenShort
-<p align="">
-  <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/main.png">
-  <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/quiz.png">
-  <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/mcqs.png">
-  <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/cheatsheet.png">
-  <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/videolearning.png">
-  <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/feedback.png">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/main.png" width="230">
+  <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/quiz.png"width="230">
+  <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/mcqs.png"width="230">
+  <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/cheatsheet.png"width="230">
+  <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/videolearning.png"width="230">
+  <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/feedback.png "width="230">
+  <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/about.png"width="230">
 </p>
 ## Disclaimer
 
