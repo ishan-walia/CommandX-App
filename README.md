@@ -1,3 +1,8 @@
+![Platform](https://img.shields.io/badge/Platform-Android-green)
+![Language](https://img.shields.io/badge/Language-Kotlin-blue)
+![Offline](https://img.shields.io/badge/Works-Offline-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 # CommandX – All Commands. One App.
 
 CommandX is an **Android cheat-sheet application** that helps students and developers quickly **search, learn, and revise Linux commands** in one place.  
@@ -85,3 +90,8 @@ GitHub: https://github.com/ishan-walia
 
 Pull Requests are welcome.  
 If you want to add new commands or features, feel free to fork and contribute.
+
+![Platform](https://img.shields.io/badge/Platform-Android-green)
+![Language](https://img.shields.io/badge/Language-Kotlin-blue)
+![Offline](https://img.shields.io/badge/Works-Offline-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
