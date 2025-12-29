@@ -50,7 +50,7 @@ CommandX is built to support **Linux, Git, GitHub, and Kali Linux commands**, wi
   <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/main.png">
   <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/quiz.png">
   <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/mcqs.png">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/cheatsheet.png">
   <img src="">
 </p>
 ## Disclaimer
