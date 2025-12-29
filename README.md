@@ -36,6 +36,13 @@ CommandX is built to support **Linux, Git, GitHub, and Kali Linux commands**, wi
 
 ---
 
+## ⬇️ Installation
+
+1. Download APK from GitHub Releases  
+2. Enable **Install from Unknown Sources**  
+3. Install APK  
+4. Open CommandX and start learning 🚀
+
 ## 🛠️ Tech Stack
 
 - **Language:** Kotlin  
@@ -45,7 +52,7 @@ CommandX is built to support **Linux, Git, GitHub, and Kali Linux commands**, wi
 - **Minimum SDK:** 21 (Android 5.0)
 
 ---
-## screenShort
+## ScreenShort
 <p align="center">
   <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/main.png" width="240">
   <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/quiz.png"width="240">
@@ -55,13 +62,26 @@ CommandX is built to support **Linux, Git, GitHub, and Kali Linux commands**, wi
   <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/feedback.png "width="240">
   <img src="https://raw.githubusercontent.com/ishan-walia/CommandX-App/main/Photo/about.png"width="240">
 </p>
+
 ## Disclaimer
 
 This app is made for **educational purposes only**.  
 It does not promote any illegal activity.
+
+
 
 ---
 ## Developer
 
 Name: **Ishan walia**  
 Company: **Walia Creations**
+
+## 📞 Contact
+
+LinkedIn: https://www.linkedin.com/in/ishanwalia  
+GitHub: https://github.com/ishan-walia
+
+## 🤝 Contribute
+
+Pull Requests are welcome.  
+If you want to add new commands or features, feel free to fork and contribute.
