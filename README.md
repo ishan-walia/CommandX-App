@@ -53,7 +53,13 @@ CommandX is built to support **Linux, Git, GitHub, and Kali Linux commands**, wi
 - Linux beginners  
 - Developers  
 - Cyber Security learners  
-- Anyone who works with terminal commands  
+- Anyone who works with terminal commands
+- 
+## 🔒 App Permissions
+
+- Storage Access – for offline content  
+- Internet – for learning videos & updates  
+- Network State – to check connectivity  
 
 ---
 
