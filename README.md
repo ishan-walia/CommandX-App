@@ -18,6 +18,14 @@ Here **“X” means unlimited possibilities**.
 CommandX is built to support **Linux, Git, GitHub, and Kali Linux commands**, with scope for future expansion.
 
 ---
+## 🏆 Why CommandX?
+
+- Works 100% offline  
+- Perfect for exam revision  
+- No ads, no distractions  
+- Lightweight and fast  
+- Beginner friendly UI  
+- One app = All commands  
 
 ## ✨ Features
 
