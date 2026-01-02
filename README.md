@@ -117,7 +117,8 @@ GitHub: https://github.com/ishan-walia
 Pull Requests are welcome.  
 If you want to add new commands or features, feel free to fork and contribute.
 
-![Platform](https://img.shields.io/badge/Platform-Android-green)
-![Language](https://img.shields.io/badge/Language-Kotlin-blue)
-![Offline](https://img.shields.io/badge/Works-Offline-orange)
-![Status](https://img.shields.io/badge/Status-Active-success)
+## ⭐ Support & Motivation
+
+If this project helped you, please give it a ⭐ star on GitHub.  
+It motivates me to build more free learning apps for students ❤️
+
