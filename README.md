@@ -38,6 +38,14 @@ CommandX is built to support **Linux, Git, GitHub, and Kali Linux commands**, wi
 - 🔁 Easy to extend for Git, GitHub & Kali
 
 ---
+## 🎯 Learning Benefits
+
+- Improve Linux command knowledge  
+- Boost Cyber Security preparation  
+- Learn Git & GitHub easily  
+- Helps in college practicals & exams  
+- Perfect for beginners & job seekers  
+
 
 ## 🧠 Who is this app for?
 
