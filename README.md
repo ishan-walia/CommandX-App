@@ -64,6 +64,10 @@ CommandX is built to support **Linux, Git, GitHub, and Kali Linux commands**, wi
 3. Install APK  
 4. Open CommandX and start learning 🚀
 
+## 📥 Download APK
+
+👉 [Download Latest APK](https://github.com/ishan-walia/CommandX-App/releases)
+
 ## 🛠️ Tech Stack
 
 - **Language:** Kotlin  
